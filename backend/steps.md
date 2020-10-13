@@ -19,3 +19,5 @@
 5. criar o script para rodar typescript com o typeorm
 
 # Notas
+
+38min

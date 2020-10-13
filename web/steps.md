@@ -4,7 +4,8 @@
 2. yarn add react-icons //instalar pacotes de ícones do react
 3. yarn add react-router-dom //Rotas entre a aplicação
 4. yarn add @types/react-router-dom -D //Dependências para o Typescript
-5. yarn add leaflet react-leaflet
+5. yarn add leaflet react-leaflet //mapa gratuito
+6. yarn add @types/react-leaflet -D //pacotes para typescript
 
 # Process
 
@@ -15,4 +16,4 @@
 
 # Notes
 
-Bibliotecas de mapas: react leaflet, google maps,
+Bibliotecas de mapas: react leaflet, google maps, mapbox

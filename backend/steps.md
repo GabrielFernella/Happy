@@ -24,4 +24,4 @@
 
 # Notas
 
-38min
+1:08min

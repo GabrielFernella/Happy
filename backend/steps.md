@@ -7,12 +7,16 @@
 5. yarn tsc --init //arquivo gerado para as configurações do typescript
 6. yarn add ts-node-dev -D //pacote que se assemelha ao nodemon
 7. yarn add typeorm sqlite3 //Instalar o ORM e o sqlite3
+8. yarn add multer // para manipulação de arquivos
+9. yarn add @types/multer -D
 
 # Comandos
 
 1. yarn typeorm migration:create -n create-orphanages //Cria as migrations (Esse comando poderá ser executado depois de finalizar todas as configurações de conexão e pastas do banco)
 2. yarn typeorm migration:run
 3. yarn typeorm migration:revert
+4. yarn typeorm migration:create -n create_images
+5. yarn typeorm migration:run
 
 # Processos
 
@@ -24,4 +28,4 @@
 
 # Notas
 
-1:08min
+1:31min

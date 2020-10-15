@@ -9,6 +9,7 @@
 7. yarn add typeorm sqlite3 //Instalar o ORM e o sqlite3
 8. yarn add multer // para manipulação de arquivos
 9. yarn add @types/multer -D
+10. yarn add express-async-errors //Para captura de erros no async
 
 # Comandos
 

@@ -12,6 +12,8 @@
 10. yarn add express-async-errors //Para captura de erros no async
 11. yarn add yup //modulo de validação
 12. yarn add @types/yup -D
+13. yarn add cors //permite que nossa aplicação seja acessada pro entidades externas (diferentes domínios )
+14. yarn add @types/cors -D
 
 # Comandos
 

@@ -10,6 +10,8 @@
 8. yarn add multer // para manipulação de arquivos
 9. yarn add @types/multer -D
 10. yarn add express-async-errors //Para captura de erros no async
+11. yarn add yup //modulo de validação
+12. yarn add @types/yup -D
 
 # Comandos
 

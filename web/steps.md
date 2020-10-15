@@ -17,3 +17,5 @@
 # Notes
 
 Bibliotecas de mapas: react leaflet, google maps, mapbox
+
+15min

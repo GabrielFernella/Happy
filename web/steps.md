@@ -6,6 +6,7 @@
 4. yarn add @types/react-router-dom -D //Dependências para o Typescript
 5. yarn add leaflet react-leaflet //mapa gratuito
 6. yarn add @types/react-leaflet -D //pacotes para typescript
+7. yarn add axios // para conexão entre a API
 
 # Process
 

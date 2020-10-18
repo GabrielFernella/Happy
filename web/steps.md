@@ -8,6 +8,9 @@
 6. yarn add @types/react-leaflet -D //pacotes para typescript
 7. yarn add axios // para conexão entre a API
 
+yarn global add expo-cli
+expo init mobile
+
 # Process
 
 1. Crie o projeto e exclua os arquivos desnecessários
